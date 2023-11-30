@@ -1,0 +1,17 @@
+#title{
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.cards{
+    width: 8rem;
+    height: 10rem;
+    background-color: #0b5351;
+    padding: .5rem;
+}
